@@ -7,7 +7,7 @@ import (
 	"encoding/hex"
 	"encoding/json"
 	"fmt"
-	"goblockchain/utils"
+	"github.com/DeepayanMallick/go-blockchain/utils"
 	"log"
 	"net/http"
 	"strings"

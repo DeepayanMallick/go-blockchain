@@ -1,4 +1,4 @@
-module github/goblockchain
+module github.com/DeepayanMallick/go-blockchain
 
 go 1.19
 

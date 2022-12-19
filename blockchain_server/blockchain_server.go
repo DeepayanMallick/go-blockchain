@@ -2,9 +2,9 @@ package main
 
 import (
 	"encoding/json"
-	"goblockchain/block"
-	"goblockchain/utils"
-	"goblockchain/wallet"
+	"github.com/DeepayanMallick/go-blockchain/block"
+	"github.com/DeepayanMallick/go-blockchain/utils"
+	"github.com/DeepayanMallick/go-blockchain/wallet"
 	"io"
 	"log"
 	"net/http"
